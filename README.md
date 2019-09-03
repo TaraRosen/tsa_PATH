@@ -5,6 +5,10 @@
 ## Project Description
 The Module 6 Project of the Flatiorn Data Science program was to create a prediction model using Time Series Analysis methods. This project focuses on using monthly Path train ridership data to predict future trends in ridership. The Time Series model that we ended up using was SARIMA model from Statsmodel. We used Mean Absolute Percentage Error as a performance measure for the Time Series model.
 
+The PATH is a mass transit system that connects New Jersey and New York. There are currently 4 lines with 13 station stops:
+
+![path_map](url)
+
 ### Data Sources
 #### Path NY NJ
 PATH Ridership Report (by month)
